@@ -4,5 +4,11 @@
     "receiverId": "user_1753289279591",
     "content": "hi",
     "timestamp": "2025-07-23T17:00:30.870Z"
+  },
+  {
+    "senderId": "user_1753289279591",
+    "receiverId": "user_1753290008535",
+    "content": "🤔",
+    "timestamp": "2025-07-23T17:31:52.332Z"
   }
 ]
